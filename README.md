@@ -12,7 +12,15 @@
 </p>
 <br/>
 
-# Vite ⚡
+# Resource
+- [Vite](https://vitejs.dev)
+- [Tailwind CSS](https://tailwindcss.com)
+- [Daisy UI](https://daisyui.com)
+- [Formik](https://formik.org)
+- [Yup](https://www.npmjs.com/package/yup)
+
+
+## Vite ⚡
 
 > Next Generation Frontend Tooling
 
